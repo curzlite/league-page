@@ -4,7 +4,7 @@
   "homepage": "https://league-page-pi-seven.vercel.app/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nmelhado/league-page.git"
+    "url": "git:league-page-pi-seven.vercel.app.git"
   },
   "author": {
     "name": "Nicholas Melhado",
