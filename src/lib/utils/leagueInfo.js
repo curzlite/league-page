@@ -26,7 +26,7 @@ export const managers = [
       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "76822213722259456",
       "name": "The Last Ronin",
-      "tookOver": null
+      "tookOver": null,
       "location": "California", // (optional)
       "bio": "Pimp and a father",
       "photo": "/managers/Last Ronin.png", // square ratio recommended (no larger than 500x500)
@@ -105,7 +105,7 @@ export const managers = [
       "rival": {
         name: "Los Malosos", // Can be anything (usually your rival's name)
         link: 5, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/Los Malosos.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/LosMalosos.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 4046, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -121,7 +121,7 @@ export const managers = [
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "California", // (optional)
       "bio": "Raider Gang",
-      "photo": "/managers/Los Malosos.png", // square ratio recommended (no larger than 500x500)
+      "photo": "/managers/LosMalosos.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2003, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "lv", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
