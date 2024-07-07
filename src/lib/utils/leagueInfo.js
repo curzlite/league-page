@@ -24,7 +24,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
   //   {
   //     "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-  //     "managerID" : "76822213722259456",
+  //     "managerID": "76822213722259456",
   //     "name": "The Last Ronin",
   //     "tookOver": null
   //     "location": "California", // (optional)
@@ -47,7 +47,7 @@ export const managers = [
   //   },
   //   {
   //     "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-  //     "managerID" : "466433478670413824",
+  //     "managerID": "466433478670413824",
   //     "name": "Shredderz",
   //     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
   //     "location": "California", // (optional)
@@ -70,7 +70,7 @@ export const managers = [
   //   },
   //   {
   //     "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-  //     "managerID" : "470323990368350208",
+  //     "managerID": "470323990368350208",
   //     "name": "Pantheon",
   //     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
   //     "location": "California", // (optional)
@@ -93,7 +93,7 @@ export const managers = [
   //   },
   //   {
   //     "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-  //     "managerID" : "600258218932883456",
+  //     "managerID": "600258218932883456",
   //     "name": "Los Conquistadores",
   //     "tookOver": 2024, // (optional) used if a manager took over a team, delete this line or change to null otherwise
   //     "location": "California", // (optional)
@@ -116,7 +116,7 @@ export const managers = [
   //   },  
   //   {
   //     "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-  //     "managerID" : "600508393467211776",
+  //     "managerID": "600508393467211776",
   //     "name": "Los Malosos",
   //     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
   //     "location": "California", // (optional)
@@ -139,7 +139,7 @@ export const managers = [
   //   },
   //   {
   //     "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-  //     "managerID" : "601124025846001664",
+  //     "managerID": "601124025846001664",
   //     "name": "Monstars",
   //     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
   //     "location": "California", // (optional)
@@ -162,7 +162,7 @@ export const managers = [
   //   }, 
   //   {
   //     "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-  //     "managerID" : "650909840301981696",
+  //     "managerID": "650909840301981696",
   //     "name": "The Goon Squad",
   //     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
   //     "location": "California", // (optional)
@@ -185,7 +185,7 @@ export const managers = [
   //   }, 
   //   {
   //     "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-  //     "managerID" : "650915218561544192",
+  //     "managerID": "650915218561544192",
   //     "name": "Tree City Heat",
   //     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
   //     "location": "California", // (optional)
@@ -208,7 +208,7 @@ export const managers = [
   //   },  
   //   {
   //     "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-  //     "managerID" : "982893081668141056",
+  //     "managerID": "982893081668141056",
   //     "name": "Minnie's Wolfpack",
   //     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
   //     "location": "California", // (optional)
@@ -231,7 +231,7 @@ export const managers = [
   //   },
   //   {
   //     "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-  //     "managerID" : "987801017523802112",
+  //     "managerID": "987801017523802112",
   //     "name": "Eagleslayer Sports",
   //     "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
   //     "location": "California", // (optional)
