@@ -1,7 +1,7 @@
 {
   "name": "league-page",
   "version": "2.3.5",
-  "homepage": "https://github.com/nmelhado/league-page",
+  "homepage": "https://league-page-pi-seven.vercel.app/",
   "repository": {
     "type": "git",
     "url": "git://github.com/nmelhado/league-page.git"
