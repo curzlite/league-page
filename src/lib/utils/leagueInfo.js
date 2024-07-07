@@ -91,7 +91,7 @@ export const managers = [
       "tradingScale": 10, // 1 - 10
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-      {
+    {
       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "600258218932883456",
       "name": "Los Conquistadores",
@@ -114,7 +114,7 @@ export const managers = [
       "tradingScale": 8, // 1 - 10
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },  
-      {
+    {
       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "600508393467211776",
       "name": "Los Malosos",
@@ -137,7 +137,7 @@ export const managers = [
       "tradingScale": 6, // 1 - 10
       "preferredContact": "Discord", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-      {
+    {
       "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "601124025846001664",
       "name": "Monstars",
@@ -160,7 +160,7 @@ export const managers = [
       "tradingScale": 10, // 1 - 10
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     }, 
-      {
+    {
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "650909840301981696",
       "name": "The Goon Squad",
@@ -183,7 +183,7 @@ export const managers = [
       "tradingScale": 10, // 1 - 10
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     }, 
-      {
+    {
       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "650915218561544192",
       "name": "Tree City Heat",
@@ -206,7 +206,7 @@ export const managers = [
       "tradingScale": 7, // 1 - 10
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },  
-      {
+    {
       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "982893081668141056",
       "name": "Minnie's Wolfpack",
@@ -229,7 +229,7 @@ export const managers = [
       "tradingScale": 8, // 1 - 10
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-      {
+    {
       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID" : "987801017523802112",
       "name": "Eagleslayer Sports",
