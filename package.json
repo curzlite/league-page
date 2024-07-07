@@ -1,10 +1,10 @@
 {
   "name": "league-page",
   "version": "2.3.5",
-  "homepage": "https://league-page-pi-seven.vercel.app/",
+  "homepage": "https://github.com/nmelhado/league-page",
   "repository": {
     "type": "git",
-    "url": "git:league-page-pi-seven.vercel.app.git"
+    "url": "git://github.com/nmelhado/league-page.git"
   },
   "author": {
     "name": "Nicholas Melhado",
